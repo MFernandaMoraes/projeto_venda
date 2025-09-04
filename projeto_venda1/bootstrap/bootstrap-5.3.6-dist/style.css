@@ -1,0 +1,63 @@
+/* .inicial{
+    background-color: #ffffff;
+    color: #DE86F0;
+    padding: 0%;
+    text-align: center;
+    bottom: 0%;
+    position: fixed;
+    width: 100%;
+}
+.mapa{
+    margin-bottom: 20px;
+}
+.mapa h3{
+    margin-bottom: 10%;
+    color: #ffffff;
+}
+.mapa ul{
+    list-style-type: none;
+}
+.mapa a{
+    color: #DE86F0;
+    text-decoration: none;
+    transition: none;
+}
+.mapa-site:hover{
+    color: #DE86F0;
+} */
+
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.body{
+    line-height: 1.6;
+}
+.inicio{
+    background-color: #eebff7;
+}
+.inicio ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+.inicio li{
+    margin: 0;
+}
+.inicio a{
+    display: block;
+    color: #912fa5;
+    font-size: 125%;
+    text-align: center;
+    padding: 25px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+.inicio a:hover{
+    background-color: #eebff7;
+    color: #4f0c5c;
+}
+.inicio a:active{
+    background-color: blanchedalmond;
+} */
